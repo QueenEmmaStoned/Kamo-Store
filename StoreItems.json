@@ -7781,7 +7781,91 @@
       "category": "Animals",
       "defname": "AEXP_Zebra",
       "price": 1000
+    },
+    {
+      "abr": "techprint(antigraintechnology)",
+      "category": "Techprints",
+      "defname": "Techprint_Mawy_Antigrain",
+      "price": 10000
+    },
+    {
+      "abr": "techprint(broadshieldcore)",
+      "category": "Techprints",
+      "defname": "Techprint_Mawy_BroadshieldCore",
+      "price": 8333
+    },
+    {
+      "abr": "techprint(glitterworldmedicine)",
+      "category": "Techprints",
+      "defname": "Techprint_Mawy_GlitterworldMedicine",
+      "price": 7500
+    },
+    {
+      "abr": "techprint(healermechserum)",
+      "category": "Techprints",
+      "defname": "Techprint_Mawy_MechSerumHealer",
+      "price": 11667
+    },
+    {
+      "abr": "techprint(hyperweave)",
+      "category": "Techprints",
+      "defname": "Techprint_Mawy_Hyperweave",
+      "price": 6667
+    },
+    {
+      "abr": "techprint(luciferium)",
+      "category": "Techprints",
+      "defname": "Techprint_Mawy_Luciferium",
+      "price": 8333
+    },
+    {
+      "abr": "techprint(neutroamine)",
+      "category": "Techprints",
+      "defname": "Techprint_Mawy_Neutroamine",
+      "price": 3333
+    },
+    {
+      "abr": "techprint(personaweapons)",
+      "category": "Techprints",
+      "defname": "Techprint_Mawy_RoyaltyPersonaweapons",
+      "price": 8333
+    },
+    {
+      "abr": "techprint(plasteel)",
+      "category": "Techprints",
+      "defname": "Techprint_Mawy_Plasteel",
+      "price": 5000
+    },
+    {
+      "abr": "techprint(psychicfoilhelmet)",
+      "category": "Techprints",
+      "defname": "Techprint_Mawy_PsychicFoilHelmet",
+      "price": 2500
+    },
+    {
+      "abr": "techprint(psyfocusequipment)",
+      "category": "Techprints",
+      "defname": "Techprint_Mawy_PsyFocus",
+      "price": 5000
+    },
+    {
+      "abr": "techprint(resurrectormechserum)",
+      "category": "Techprints",
+      "defname": "Techprint_Mawy_MechSerumResurrector",
+      "price": 16667
+    },
+    {
+      "abr": "techprint(royaltyweapons)",
+      "category": "Techprints",
+      "defname": "Techprint_Mawy_Royaltyweapons",
+      "price": 6667
+    },
+    {
+      "abr": "techprint(synthread)",
+      "category": "Techprints",
+      "defname": "Techprint_Mawy_Synthread",
+      "price": 6667
     }
   ],
-  "total": 1297
+  "total": 1311
 }
